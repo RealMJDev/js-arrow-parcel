@@ -1,0 +1,1 @@
+export default price => price + price / 100 * 15;
