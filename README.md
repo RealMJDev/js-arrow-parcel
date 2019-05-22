@@ -16,4 +16,5 @@ This repo serves as JS training for setting up a workflow and to showcase arrow 
 13. `git add -A`  `git commit -m 'message'`  `git push`.
 
 
-
+## checkout how to export and import JS functions
+## See how to construct arrow functions
