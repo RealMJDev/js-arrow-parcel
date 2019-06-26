@@ -2,7 +2,7 @@
 This repo serves as JS training for setting up a workflow and to showcase arrow functions
 
 1. Create a folder for your project
-2. Open project in your Editor
+2. Open project in your favorite Editor
 3. Go to the terminal and type: `npm init`
 4. Go through steps of creating a package.JSON file
 5. Search for a package online like (webpack, parcelJS etc)
